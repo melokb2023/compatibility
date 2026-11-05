@@ -5,7 +5,7 @@
 % What is this Program: 
 %   This is a Prolog program that models PC hardware configurations, 
 %   system requirements, power hierarchies, and constraints in storage to infer 
-    the playability of the system and determine the bottleneck components..
+% the playability of the system and determine the bottleneck components.
 % ==============================================================================
 
 % ==============================================================================
